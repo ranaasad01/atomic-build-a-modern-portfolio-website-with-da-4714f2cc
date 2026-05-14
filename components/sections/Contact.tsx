@@ -1,5 +1,5 @@
-"use client";
-
-export default function Contact() {
-  return null;
-}
+"use client";
+
+export default function Contact() {
+  return null;
+}
